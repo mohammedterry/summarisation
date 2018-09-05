@@ -1,2 +1,2 @@
 # summarisation
-automatic summarisation using vectors
+simple method for automatic summarisation using vectors (only)
